@@ -72,4 +72,4 @@
 
 ### Donations
 Donations are appreciated if you make a nice profit off the bot. :)
-ETH, ERC20, **BSC** BNB & BEP20 tokens: 0x0e5cB1Bc3fFDC0802770B216B04012DC6df843D4
+ETH, ERC20, **BSC** BNB & BEP20 tokens: 0x93666cad31F0942b010bbf1beF72304263d21A13
